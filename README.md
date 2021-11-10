@@ -1,4 +1,4 @@
-# DCA0305-Exploring-EBay-Car-Sales
+# DCA0305-Exploring EBay Car Sales
 
 This project is based on the Guided Project proposed by the lesson "Pandas and Numpy Visualization" made by DataQuest.
 
